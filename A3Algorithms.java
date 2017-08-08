@@ -1,25 +1,4 @@
 
-/*
-Name: Subah Mehrotra
-V#: V00855471
-Netlink id: subah123
-*/
-
-
-
-
-
-
-
-/* A5Algorithms.java
-   CSC 225 - Summer 2017
-   Programming Assignment 3 - Image Algorithms
-
-
-   B. Bird - 07/03/2017
-*/ 
-
-
 import java.awt.Color;
 import java.util.Queue;
 import java.util.LinkedList;
