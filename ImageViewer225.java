@@ -1,23 +1,4 @@
-/*
-Name: Subah Mehrotra
-V#: V00855471
-Netlink id: subah123
-*/
 
-
-
-
-
-
-
-/* ImageViewer225.java
-   CSC 225 - Summer 2017
-   Image Viewer for Programming Assignment 3
-   
-
-   B. Bird - 07/01/2017
-   Some of the code for keyboard bindings is based on code from B. Jiao
-*/
 
 import java.awt.Color;
 import java.awt.Graphics;
