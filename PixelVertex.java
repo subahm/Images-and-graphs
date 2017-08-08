@@ -1,22 +1,4 @@
-/*
-Name: Subah Mehrotra
-V#: V00855471
-Netlink id: subah123
-*/
 
-
-
-
-
-
-
-/* PixelVertex.java
-   CSC 225 - Summer 2017
-   Programming Assignment 3 - Pixel Vertex Data Structure
-
-
-   B. Bird - 07/03/2017
-*/
 
 import java.awt.Color;
 public class PixelVertex{
